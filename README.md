@@ -25,6 +25,8 @@
 ![Alt text](<https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white>)
 ![Alt text](<https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white>)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragane&show_icons=true)
+
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png" width="20" heigh="20"> **Written articles:**
 
