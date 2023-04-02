@@ -2,7 +2,7 @@
 
 
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="20" height="20"> **Hi there!**
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="50" height="50"> **Hi there!**
 
 
 ![Alt text](<https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white>)
