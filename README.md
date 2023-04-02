@@ -1,11 +1,9 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=40&duration=2000&pause=500&color=08880B&background=04060EDF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hello+there!+;Welcome+on+my+profile.)](https://git.io/typing-svg)
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="50" height="50"> **Hi there!**
-
-
-![Alt text](<https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white>)
+## ![Alt text](<https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white>)
 
 - My name is Szymon Cherubin.
 - I am from Poland, living in Warsaw.
