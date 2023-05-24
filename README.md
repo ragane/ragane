@@ -5,7 +5,7 @@
 
 ## ![Alt text](<https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white>)
 
-- My name is Szymon Cherubin.
+- My name is Szymon.
 - I am from Poland, living in Warsaw.
 - I am MSc. in the field of mechatronics, both my diploma theses focused on the developing and issues of unmanned ground vehicles.
 - I am a hobbyst programming rookie.
