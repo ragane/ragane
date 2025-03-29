@@ -31,7 +31,9 @@
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png" width="20" heigh="20"> **Written articles:**
 
 - [Autonomous Robot Project Based on the ROS System Platform](https://www.researchgate.net/publication/366698259_Autonomous_Robot_Project_Based_on_the_Robot_Operating_System_Platform)
-
+- [Evaluation of Robot Motion Trajectory Based on Selected Mapping Algorithms](https://www.researchgate.net/publication/379444852_Evaluation_of_Robot_Motion_Trajectory_Based_on_Selected_Mapping_Algorithms)
+- [YOLO object detection and classification using low-cost mobile robot](https://www.researchgate.net/publication/383497693_YOLO_object_detection_and_classification_using_low-cost_mobile_robot)
+  
 ## <img src="https://user-images.githubusercontent.com/62072813/229326397-faf4db13-5381-4b77-8e3b-c9d2728e1ba9.png" width="20" height="20"> **How to reach me:**
 
 [![Alt text](<https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white>)](https://pl.linkedin.com/in/szymon-cherubin-8001b1226)
